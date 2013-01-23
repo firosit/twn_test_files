@@ -1,3 +1,6 @@
+Checkout files using these commands
 
-hi this is just a test line added by firos on 23/01/2013 at 5.05 pm
+git clone https://github.com/rrvc/rapid-flex.git
+
+git clone https://github.com/rrvc/platform.git
 
