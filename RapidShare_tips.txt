@@ -1,6 +1,0 @@
-Checkout files using these commands
-
-git clone https://github.com/rrvc/rapid-flex.git
-
-git clone https://github.com/rrvc/platform.git
-
